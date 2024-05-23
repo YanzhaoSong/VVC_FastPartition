@@ -1,4 +1,4 @@
-# Efficient QTMT Partitioning for VVC Intra-Frame Coding Based on Multi-Model Fusion
+# Efficient QTMT Partitioning for VVC Intra-Frame Coding via Multi-Model Fusion
 
 This is the source code for the paper **Efficient QTMT Partitioning for VVC Intra-Frame Coding via Multi-Model Fusion**
 
